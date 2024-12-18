@@ -4,7 +4,7 @@
   </a>
 </p>
 
-We're a a specialized generative AI software engineering firm, offering remote expertise to technology companies that have AI at their core.
+We're a specialized generative AI software engineering firm, offering remote expertise to technology companies that have AI at their core.
 
 We solve the unique challenges of running generative AI models in production, tackling everything from developing new applications to improving existing models and infrastructure.
 
