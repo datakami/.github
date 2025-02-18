@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://datakami.nl">
-    <img alt="Datakami" width=300 src="https://datakami.nl/logo.svg">
+  <a href="https://datakami.com">
+    <img alt="Datakami" width=300 src="https://datakami.com/logo.svg">
   </a>
 </p>
 
@@ -10,4 +10,4 @@ We solve the unique challenges of running generative AI models in production, ta
 
 We'd love to help you scale. Can your company benefit from our expertise?
 
-[Email us](mailto:hello@datakami.nl) or [plan a meeting](https://calendly.com/datakami).
+[Email us](mailto:hello@datakami.com) or [plan a meeting](https://calendly.com/datakami).
